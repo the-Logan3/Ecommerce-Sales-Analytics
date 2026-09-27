@@ -6,6 +6,10 @@ An end-to-end e-commerce sales analytics project using Python, PostgreSQL, SQL, 
 
 [View the Tableau Public Dashboard](https://public.tableau.com/app/profile/logesh.kanakaraj/viz/Ecommerce_Sales_Analytics/E-commerceSalesDashboard?publish=yes)
 
+### Dashboard Preview
+
+![E-commerce Sales Analytics Dashboard](dashboards/dashboard_preview.png)
+
 ## Business Scenario
 
 An online retailer wants to understand its sales performance and customer behavior.
