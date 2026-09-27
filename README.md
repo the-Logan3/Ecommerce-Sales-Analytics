@@ -2,6 +2,10 @@
 
 An end-to-end e-commerce sales analytics project using Python, PostgreSQL, SQL, and Tableau. The project analyzes transaction-level sales data to identify revenue trends, product performance, customer behavior, geographic performance, and cancellation patterns.
 
+## Interactive Dashboard
+
+[View the Tableau Public Dashboard](https://public.tableau.com/app/profile/logesh.kanakaraj/viz/Ecommerce_Sales_Analytics/E-commerceSalesDashboard?publish=yes)
+
 ## Business Scenario
 
 An online retailer wants to understand its sales performance and customer behavior.
