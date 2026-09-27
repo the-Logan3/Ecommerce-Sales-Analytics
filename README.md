@@ -57,3 +57,23 @@ CSV Exports
 Tableau Dashboard
    ↓
 Business Insights
+
+## SQL Analysis
+
+The PostgreSQL analysis includes queries for:
+
+- Overall sales performance
+- Monthly revenue
+- Month-over-month growth
+- Product performance
+- Customer revenue
+- Customer revenue concentration
+- Repeat vs one-time customers
+- Country performance
+- Product order frequency
+- Average order value
+- Cancellation analysis
+- Cancellation trends
+- Customer revenue segmentation
+
+[View the SQL Analysis](sql/ecommerce_analysis.sql)
